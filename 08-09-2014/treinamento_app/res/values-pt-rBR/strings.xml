@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="action_settings">Configurações</string>
+    <string name="app_name">Treinamento PT-BR</string>
+    <string name="hello_world">Olá Mundo</string>
+    <string name="minha_primeira_imagem">Minha Primeira Imagem</string>
+    <string name="my_button">Meu Botão</string>
+
+</resources>
